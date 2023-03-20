@@ -1,6 +1,6 @@
 ------------------------start---------------------------
 {
-"PulseSensor":
+"VFlash":
 	{
 		"LatestVerison":"V1.1",
 		"Url":"https://github.com/afei9527/VectorFlash/releases/download/v1.0.0/VFlash.exe",
