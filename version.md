@@ -2,8 +2,8 @@
 "PulseSensor":
 	{
 		"LatestVerison":"V1.1",
-		"Url":""http://192.168.5.69/fs/配置界面系统V1.1.exe",
-		"UpdateTime":"2019-03-31",
+		"Url":"http://192.168.5.69/fs/property.exe",
+		"UpdateTime":"2022-01-09",
       		"ReleaseNote":"\n1.添加检查更新说明，包含版本号，下载链接，更新时间，更新说明.\n2.优化“关于”界面"
 	},
 "RGBContrl":
